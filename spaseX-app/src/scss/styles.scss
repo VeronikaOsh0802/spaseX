@@ -1,0 +1,14 @@
+// Import all of Bootstrap's CSS
+@import "utils/bootstrap.scss";
+:root {
+  --bs-body-color: #ffffff;
+  --bs-body-bg: #010001;
+}
+
+.hero {
+  padding-top: 120px;
+}
+
+.mb-220px {
+  margin-bottom: 220px;
+}
